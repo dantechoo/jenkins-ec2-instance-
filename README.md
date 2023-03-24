@@ -1,6 +1,10 @@
 # jenkins-ec2-instance-
 set up jenkins on aws instance with terraform
 
+prepration:
+AWS account
+terraform 
+
 after clone the the repo then update you personal aws access key and secret key on repo
 
 1st setp :run terraform init 
