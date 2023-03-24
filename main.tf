@@ -1,6 +1,6 @@
 resource "aws_instance" "jenkins-instance" {
   ami           = var.instance_ami
-  instance_type = "t2.micro"
+  instance_type = var.instance_type
   key_name      = var.keyname
 
   vpc_security_group_ids = [aws_security_group.sg_allow_ssh_jenkins.id]

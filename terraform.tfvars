@@ -1,5 +1,5 @@
 region        = "eu-west-1"
 environment   = "Development"
 instance_type = "t2.micro"
-instance_ami  = "ami-08fea9e08576c443b"
+instance_ami  = "ami-000959cf06650d13f"
 keyname       = "AWS_tut"
