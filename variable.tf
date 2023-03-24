@@ -20,8 +20,8 @@ variable "keyname" {
   default = "AWS_tut"
 }
 variable "access_key" {
-  default = "AKIA6HSJKLRXBY42D3IJ"
+  default = "xxx"
 }
 variable "secret_key" {
-  default = "Sa/wQdCCEMEFM1kIKgcxPeU4PgNtf5K/rai83xty"
+  default = "xxx"
 }
